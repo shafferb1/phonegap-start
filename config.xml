@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Ben's New App</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+	This is the new app that Jack built
 	</description>
 
 	<author href="http://alunny.github.com"
